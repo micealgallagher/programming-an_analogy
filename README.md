@@ -6,3 +6,5 @@ Feeling like the fault was due to my explaination, I decided to create an analog
 Please, feel to use it when next you are asked the question. 
 
 Alterations are welcomed. Or feel free to append your own.
+
+Please use markdown.
